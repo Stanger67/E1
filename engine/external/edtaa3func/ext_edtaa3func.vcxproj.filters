@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Eleanor\E1\cocos2d\external\edtaa3func\edtaa3func.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Eleanor\E1\cocos2d\external\edtaa3func\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2574A13F-33EE-3D16-9582-985A586D9601}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
